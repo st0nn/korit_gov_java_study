@@ -23,7 +23,6 @@ public class Scanner01 {
         String str = scanner.nextLine();
         scanner.nextLine();
         System.out.println("num:"+num+"str"+str);
-
 */
         Scanner scanner = new Scanner(System.in);
         System.out.println("나이를 입력해주세요");
@@ -31,8 +30,6 @@ public class Scanner01 {
         System.out.println("이름을 입력해주세요");
         String name = scanner.nextLine();
         System.out.println(age+"살 "+name+"입니다.");
-
-
 
     }
 }
