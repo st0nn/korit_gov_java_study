@@ -43,7 +43,10 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "terminal",
+    "애플리케이션.EscapeSequence.executor": "Run",
     "애플리케이션.Operator.executor": "Run",
+    "애플리케이션.String01.executor": "Run",
+    "애플리케이션.String02.executor": "Run",
     "애플리케이션.TypeCasting.executor": "Run",
     "애플리케이션.VariablesNaming.executor": "Run"
   }
