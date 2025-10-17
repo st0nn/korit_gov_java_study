@@ -44,8 +44,8 @@ public class if01 {
         // 아이디가 틀리면 아이디가 틀렸습니다
         //비밀번호가 틀리면 비밀번호가 틀려씁니다. 출력
 
-        Scanner scanner = new Scanner(System.in);
-        String str = scanner.nextline();
+/*        Scanner scanner = new Scanner(System.in);
+        String str = scanner.nextline();*/
 
     }
 }
