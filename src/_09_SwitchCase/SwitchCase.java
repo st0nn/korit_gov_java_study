@@ -7,6 +7,39 @@ public class SwitchCase {
         Scanner scanner  = new Scanner(System.in);
         int month = scanner.nextInt();
 
+        //값 수신
+        int a = scanner.nextInt();
+        scanner.nextLine();
+        //연산자 수신
+        String oper = scanner.nextLine();
+        scanner.nextLine();
+        //값 수신
+        int b = scanner.nextInt();
+        scanner.nextLine();
+        System.out.println(a+oper+b);
+
+        //값 수신
+        switch (oper) {
+            case "+":
+                System.out.println(a+b);
+                break;
+            case "-":
+                System.out.println(a-b);
+                break;
+            case "*":
+                System.out.println(a*b);
+                break;
+            case "/":
+                System.out.println(a/b);
+                break;
+            default:
+                System.out.println("유효한 기호가 아닙니다.");
+                break;
+        }
+
+
+
+
         int ranking = 2;
 /*
         if (ranking==3) {
@@ -67,36 +100,6 @@ public class SwitchCase {
         }
         */
 
-
-
-        //값 수신
-        int a = scanner.nextInt();
-        scanner.nextLine();
-        //연산자 수신
-        String oper = scanner.nextLine();
-        //값 수신
-        int b = scanner.nextInt();
-        scanner.nextLine();
-        System.out.println(a+oper+b);
-
-        //값 수신
-        switch (oper) {
-            case "+":
-                System.out.println(a+b);
-                break;
-            case "-":
-                System.out.println(a-b);
-                break;
-            case "*":
-                System.out.println(a*b);
-                break;
-            case "/":
-                System.out.println(a/b);
-                break;
-            default:
-                System.out.println("유효한 기호가 아닙니다.");
-                break;
-        }
 
     }
 }
