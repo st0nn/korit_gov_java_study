@@ -15,7 +15,7 @@ public class SwitchCase {
         scanner.nextLine();
         //값 수신
         int b = scanner.nextInt();
-        scanner.nextLine();
+        scanner.nextInt();
         System.out.println(a+oper+b);
 
         //값 수신
