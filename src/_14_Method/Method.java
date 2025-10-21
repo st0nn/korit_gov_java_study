@@ -38,15 +38,18 @@ public class Method {
     //======================================================================
     // contains({1,3,5},3) => 있으면 True, 없으면 False
     public static boolean contains(int[] a, int b) {
+        boolean judge = false;
         for (int i = 0; i < a.length; i++) {
             if (a[i] == b) {
-                return true;
+                judge = true;
             }
-
         }
+        return judge;
     }
 
     static void main(String[] args) {
+
+
 
     }
 
