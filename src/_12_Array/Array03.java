@@ -91,5 +91,7 @@ public class Array03 {
         int target = scanner.nextInt();
         int idx = -1;
 
+        System.out.println(a.length);
+
     }
 }

@@ -31,13 +31,10 @@ public class Overloading {
         return maxInatant;
     }
 
-
-
     static void main(String[] args) {
         printInfo("남영석", 12);
         System.out.println(max(1,4));
         System.out.println(max(1.2,4.4));
-
     }
 
 }
