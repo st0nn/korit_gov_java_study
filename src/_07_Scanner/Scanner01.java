@@ -29,6 +29,5 @@ public class Scanner01 {
         System.out.println("이름을 입력해주세요");
         String name = scanner.nextLine();
         System.out.println(age+"살 "+name+"입니다.");
-
     }
 }
