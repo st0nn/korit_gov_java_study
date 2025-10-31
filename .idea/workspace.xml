@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="842f709b-9b6b-4d5b-8c62-a5185f9a7583" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Builder/User/UserMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_Builder/User/UserMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/User/User$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/User/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_24_Builder/User/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/User/UserMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_24_Builder/User/UserMain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,54 +39,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "Errors",
-    "애플리케이션.Array01.executor": "Run",
-    "애플리케이션.Array02.executor": "Run",
-    "애플리케이션.Array03.executor": "Run",
-    "애플리케이션.BankAccountMain.executor": "Run",
-    "애플리케이션.Counter.executor": "Run",
-    "애플리케이션.DoWhile.executor": "Run",
-    "애플리케이션.DogMain.executor": "Run",
-    "애플리케이션.EscapeSequence.executor": "Run",
-    "애플리케이션.For.executor": "Run",
-    "애플리케이션.Fortest.executor": "Run",
-    "애플리케이션.Main.executor": "Run",
-    "애플리케이션.Main2.executor": "Run",
-    "애플리케이션.Method.executor": "Run",
-    "애플리케이션.MultiArray.executor": "Run",
-    "애플리케이션.MultiArrayLoop.executor": "Run",
-    "애플리케이션.Operator.executor": "Run",
-    "애플리케이션.Overloading.executor": "Run",
-    "애플리케이션.Parameter.executor": "Run",
-    "애플리케이션.Return.executor": "Run",
-    "애플리케이션.Scanner01.executor": "Run",
-    "애플리케이션.Solution.executor": "Run",
-    "애플리케이션.StaticMemberMain.executor": "Run",
-    "애플리케이션.String01.executor": "Run",
-    "애플리케이션.String02.executor": "Run",
-    "애플리케이션.StudentMain.executor": "Run",
-    "애플리케이션.SwitchCase.executor": "Run",
-    "애플리케이션.TypeCasting.executor": "Run",
-    "애플리케이션.UserMain.executor": "Run",
-    "애플리케이션.VariablesNaming.executor": "Run",
-    "애플리케이션.WaterbottleMain.executor": "Run",
-    "애플리케이션.While.executor": "Run",
-    "애플리케이션.if01.executor": "Run",
-    "애플리케이션.main.executor": "Run",
-    "애플리케이션.test.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;애플리케이션.Array01.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Array02.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Array03.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.BankAccountMain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Counter.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DogMain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.EscapeSequence.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.For.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Fortest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Method.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MultiArray.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MultiArrayLoop.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Operator.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Parameter.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Return.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Scanner01.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StaticMemberMain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.String01.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.String02.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StudentMain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.TodoListMain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.UserMain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.VariablesNaming.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.WaterbottleMain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.While.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.if01.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.test.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_25_LayeredArchitecture.dto" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
       <changelist id="842f709b-9b6b-4d5b-8c62-a5185f9a7583" name="변경" comment="" />
