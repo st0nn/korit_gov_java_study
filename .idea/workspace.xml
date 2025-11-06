@@ -5,84 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="842f709b-9b6b-4d5b-8c62-a5185f9a7583" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_34_Lambda/calculator/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_21_Objecs/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_21_Objecs/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_22_Bean/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_22_Bean/PostEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_22_Bean/UserEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_22_Bean/UserEntityLombok.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_23_Static/Counter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_23_Static/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_23_Static/Person/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_23_Static/Person/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_23_Static/Student/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_23_Static/Student/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_24_Builder/NonStaticMember/NonStaticMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_24_Builder/NonStaticMember/NonStaticMemberMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_24_Builder/StaticMember/StaticMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_24_Builder/StaticMember/StaticMemberMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_24_Builder/User/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_24_Builder/User/UserMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_25_LayeredArchitecture/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_25_LayeredArchitecture/dto/SigninReqDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_25_LayeredArchitecture/dto/SignupReqDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_25_LayeredArchitecture/dto/TodoRegisterReqDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_25_LayeredArchitecture/entity/Todo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_25_LayeredArchitecture/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_25_LayeredArchitecture/repository/UserList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_25_LayeredArchitecture/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_25_LayeredArchitecture/view/TodoListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_26_Singleton/AppConfig/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_26_Singleton/AppConfig/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_26_Singleton/Ex1/Ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_26_Singleton/Ex1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_26_Singleton/LogManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_26_Singleton/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_27_Generic/Generic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_27_Generic/GenericEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_27_Generic/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_27_Generic/ResponseData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_Wildcard/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_Wildcard/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_Wildcard/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_Wildcard/Corgi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_Wildcard/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_Wildcard/LowerBounded.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_Wildcard/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_Wildcard/Unbounded.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_Wildcard/UpperBounded.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_21_Objecs/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_21_Objecs/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_22_Bean/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_22_Bean/PostEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_22_Bean/UserEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_22_Bean/UserEntityLombok.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_23_Static/Counter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_23_Static/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_23_Static/Person/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_23_Static/Person/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_23_Static/Student/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_23_Static/Student/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/NonStaticMember/NonStaticMember$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/NonStaticMember/NonStaticMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/NonStaticMember/NonStaticMemberMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/StaticMember/StaticMember$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/StaticMember/StaticMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/StaticMember/StaticMemberMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/User/User$UserBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/User/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_24_Builder/User/UserMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_25_LayeredArchitecture/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_25_LayeredArchitecture/dto/SigninReqDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_25_LayeredArchitecture/dto/SignupReqDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_25_LayeredArchitecture/dto/TodoRegisterReqDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_25_LayeredArchitecture/entity/Todo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_25_LayeredArchitecture/entity/User$UserBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_25_LayeredArchitecture/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_26_Singleton/AppConfig/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_26_Singleton/LogManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_26_Singleton/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_29_Collections/List/StrList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_29_Collections/Map/ProductMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_29_Collections/Map/StrMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_29_Collections/Set/LanguageSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_29_Collections/Set/Set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_29_Collections/TodoList/TodoList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_29_Collections/List/StrList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_29_Collections/Map/ProductMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_29_Collections/Map/StrMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_29_Collections/Set/LanguageSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_29_Collections/Set/Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_29_Collections/TodoList/TodoList.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +61,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "Errors",
+    "애플리케이션.AgeValidateException.executor": "Run",
     "애플리케이션.Array01.executor": "Run",
     "애플리케이션.Array02.executor": "Run",
     "애플리케이션.Array03.executor": "Run",
@@ -132,25 +70,35 @@
     "애플리케이션.DoWhile.executor": "Run",
     "애플리케이션.DogMain.executor": "Run",
     "애플리케이션.EscapeSequence.executor": "Run",
+    "애플리케이션.Exception01.executor": "Run",
     "애플리케이션.For.executor": "Run",
+    "애플리케이션.ForEachMain.executor": "Run",
+    "애플리케이션.ForEachMap.executor": "Run",
     "애플리케이션.Fortest.executor": "Run",
+    "애플리케이션.Json01.executor": "Run",
+    "애플리케이션.Json02.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Main2.executor": "Run",
     "애플리케이션.Method.executor": "Run",
     "애플리케이션.MultiArray.executor": "Run",
     "애플리케이션.MultiArrayLoop.executor": "Run",
+    "애플리케이션.NumberParseException.executor": "Run",
     "애플리케이션.Operator.executor": "Run",
     "애플리케이션.Overloading.executor": "Run",
     "애플리케이션.Parameter.executor": "Run",
     "애플리케이션.ProductMap.executor": "Run",
     "애플리케이션.Return.executor": "Run",
     "애플리케이션.Scanner01.executor": "Run",
+    "애플리케이션.SignupException.executor": "Run",
     "애플리케이션.Solution.executor": "Run",
     "애플리케이션.StaticMemberMain.executor": "Run",
     "애플리케이션.StrList.executor": "Run",
     "애플리케이션.StrMap.executor": "Run",
+    "애플리케이션.StreamApi.executor": "Run",
+    "애플리케이션.StreamApiEx.executor": "Run",
     "애플리케이션.String01.executor": "Run",
     "애플리케이션.String02.executor": "Run",
+    "애플리케이션.StringBuilder01.executor": "Run",
     "애플리케이션.StudentMain.executor": "Run",
     "애플리케이션.SwitchCase.executor": "Run",
     "애플리케이션.TodoList.executor": "Run",
